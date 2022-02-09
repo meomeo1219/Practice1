@@ -4,3 +4,4 @@
 # Link to my video: https://www.youtube.com/watch?v=QcTuQjJQrGY
 # Screencast sofware: Zoom 
 # IDE: Visual Studio Code
+#Today is Tuesday
